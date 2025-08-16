@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Library Late Fee Simulator\bin\Debug\Library Late Fee Simulator.exe.config
+C:\Users\HP\source\repos\Library Late Fee Simulator\bin\Debug\Library Late Fee Simulator.exe
+C:\Users\HP\source\repos\Library Late Fee Simulator\bin\Debug\Library Late Fee Simulator.pdb
+C:\Users\HP\source\repos\Library Late Fee Simulator\obj\Debug\Library Late Fee Simulator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Library Late Fee Simulator\obj\Debug\Library Late Fee Simulator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Library Late Fee Simulator\obj\Debug\Library Late Fee Simulator.exe
+C:\Users\HP\source\repos\Library Late Fee Simulator\obj\Debug\Library Late Fee Simulator.pdb
+C:\Users\HP\source\repos\Library Late Fee Simulator\obj\Debug\Library Late Fee Simulator.exe.config
